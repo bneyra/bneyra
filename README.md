@@ -49,10 +49,7 @@ Backend RESTful hecho con Node.js y Express, con JWT para autenticación.
 Script en Python que identifica puertos abiertos y posibles riesgos usando Nmap.
 
 🔹 **[Portfolio Web Personal](#)**  
-Sitio web responsive con React + TailwindCSS, con diseño moderno y UI/UX atractivo.
-
-> *(Reemplaza los `#` con los enlaces a tus repositorios cuando los tengas listos)*
-
+Sitio web 
 ---
 
 ### 🎓 Formación y Certificaciones
