@@ -64,7 +64,7 @@ Sitio web
 ---
 
 ### 🌐 Contacto
-📧 [benjaminneyra26@gmail.com](mailto:benjaminneyra26@gmail.com)  
+📧 [bneyra.research@gmail.com](mailto:bneyra.research@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-neyra-823330208/)  
 🌍 [GitHub](https://github.com/bneyra)
 
